@@ -1,0 +1,7 @@
+{
+  "FANTOM_RPC_URL": "https://rpc.ftm.tools/",
+  "AVAX_RPC_URL": "https://api.avax.network/ext/bc/C/rpc",
+  "POLYGON_RPC_URL": "https://polygon-rpc.com/",
+  "SLIPPAGE": 5
+}
+

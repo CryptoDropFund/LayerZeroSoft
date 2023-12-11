@@ -1,0 +1,17 @@
+{
+  "FANTOM_RPC_URL": "https://rpc.ftm.tools/",
+  "AVAX_RPC_URL": "https://api.avax.network/ext/bc/C/rpc",
+  "POLYGON_RPC_URL": "https://polygon-rpc.com/",
+  "TYPE_SWAP_REMOTE": 1,
+  "POLYGON_ID": 109,
+  "AVALANCHE_ID": 106,
+  "FANTOM_ID": 112,
+  "USDC_AVALANCHE_POOL_ID": 1,
+  "USDC_FANTOM_POOL_ID": 1,
+  "USDC_POLYGON_POOL_ID": 1,
+  "AMOUNT_TO_SWAP": 5,
+  "SLIPPAGE": 5,
+  "SLEEPING_BETWEEN_TRANSACTIONS": 1,
+  "MODE": "FANTOM_AVAX"
+}
+

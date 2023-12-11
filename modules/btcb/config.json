@@ -1,0 +1,7 @@
+{
+  "AVAX_RPC_URL": "https://api.avax.network/ext/bc/C/rpc",
+  "POLYGON_RPC_URL": "https://polygon-rpc.com/",
+  "POLYGON_ID": 109,
+  "AVALANCHE_ID": 106
+}
+
